@@ -1,16 +1,19 @@
-## Hi there 👋
+# Cassini Rajesh
+### Aerospace Engineering | Penn State | Graduating May 2026
 
-<!--
-**Cassini-Rajesh/Cassini-Rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seeking entry-level roles in aerodynamics, GNC, and systems engineering.
 
-Here are some ideas to get you started:
+## Projects
+| Project | Tools | Area |
+|---------|-------|------|
+| [Three-Body Orbital Simulation](#) | MATLAB | Orbital Mechanics |
+| [Quadcopter Dynamics & Control](#) | MATLAB/Simulink | GNC |
+| [Joukowski Airfoil Transformation](#) | MATLAB | Aerodynamics |
+| [Senior Aircraft Capstone](#) | XFOIL/OpenVSP/SolidWorks | Aircraft Design |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+MATLAB · Simulink · XFOIL · OpenVSP · SolidWorks · Python · Arduino
+
+## Contact
+📧 cassini.rajesh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/cassini-rajesh)
