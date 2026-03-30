@@ -1,7 +1,9 @@
 # Cassini Rajesh
 ### Aerospace Engineering | Penn State | Graduating May 2026
 
-Seeking entry-level roles in aerodynamics, GNC, and systems engineering.
+Aerospace Engineering student at Penn State graduating May 2026 with project experience in flight dynamics, controls, aerodynamic modeling, and orbital simulation.
+
+Interested in full-time roles in aerodynamics, GNC, flight sciences, and systems engineering.
 
 ## Projects
 | Project | Tools | Area |
